@@ -88,7 +88,7 @@ AWS, NHN 클라우드, OpenStack을 활용한 멀티 하이브리드 클라우�
 # 📝 프로젝트 진행 관리: Notion
 
 ### 🔗 URL
-https://sonrey.notion.site/Project-Team-Notion-KIN-Cloud-007806073dbf41ad81783f42c4ee5f4d?pvs=4
+https://idoyoung1.notion.site/Project-Team-Notion-KIN-Cloud-bf391917af8945a4a82f861a2a565231?pvs=4
 
 <br>
 
